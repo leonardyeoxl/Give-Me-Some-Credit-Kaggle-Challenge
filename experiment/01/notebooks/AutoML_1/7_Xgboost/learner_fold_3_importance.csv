@@ -1,0 +1,11 @@
+feature,mean_importance
+MonthlyIncome,0.012799808561663914
+DebtRatio,0.015424001290241286
+RevolvingUtilizationOfUnsecuredLines,0.0277127107113666
+age,0.04878491239953041
+NumberRealEstateLoansOrLines,0.06190379685800331
+NumberOfDependents,0.1861962123862742
+NumberOfOpenCreditLinesAndLoans,0.2390817504966098
+NumberOfTime60-89DaysPastDueNotWorse,0.30015954515822785
+NumberOfTimes90DaysLate,0.34845924430696984
+NumberOfTime30-59DaysPastDueNotWorse,0.42432609733328724

@@ -1,0 +1,33 @@
+{
+    "columns": [
+        "RevolvingUtilizationOfUnsecuredLines",
+        "age",
+        "NumberOfTime30-59DaysPastDueNotWorse",
+        "DebtRatio",
+        "MonthlyIncome",
+        "NumberOfOpenCreditLinesAndLoans",
+        "NumberOfTimes90DaysLate",
+        "NumberRealEstateLoansOrLines",
+        "NumberOfTime60-89DaysPastDueNotWorse",
+        "NumberOfDependents"
+    ],
+    "rows": 160844,
+    "cols": 10,
+    "target_is_numeric": true,
+    "columns_info": {
+        "RevolvingUtilizationOfUnsecuredLines": [],
+        "age": [],
+        "NumberOfTime30-59DaysPastDueNotWorse": [],
+        "DebtRatio": [],
+        "MonthlyIncome": [],
+        "NumberOfOpenCreditLinesAndLoans": [],
+        "NumberOfTimes90DaysLate": [],
+        "NumberRealEstateLoansOrLines": [],
+        "NumberOfTime60-89DaysPastDueNotWorse": [],
+        "NumberOfDependents": []
+    },
+    "target_info": [],
+    "n_features": 10,
+    "is_sample_weighted": false,
+    "n_classes": 2
+}
